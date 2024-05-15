@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default function Login() {
+export default function Borrow() {
   return (
-    <div>login</div>
+    <div>借阅管理</div>
   );
 }

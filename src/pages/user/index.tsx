@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default function Login() {
+export default function User() {
   return (
-    <div>login</div>
+    <div>用户管理</div>
   );
 }

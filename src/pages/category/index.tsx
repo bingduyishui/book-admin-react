@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default function Login() {
+export default function Category() {
   return (
-    <div>login</div>
+    <div>分类管理</div>
   );
 }
